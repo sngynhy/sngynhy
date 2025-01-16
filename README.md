@@ -7,12 +7,12 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 # Hello! I'm Yoonhey 👋
 ## About Me?
-<div>
-  <p>A web developer with experience developing REST APIs and SPAs using technologies such as Node.js, Spring Boot, and Vue.js.</p>
-  <p>Recently, I have been studying React and am developing my capabilities as a front-end developer.</p>
-  <p>Aiming for clean code, I enjoy improving my project through refactoring.</p>
-</div>
-
+<p>
+  A web developer with experience developing REST APIs and SPAs using technologies such as Node.js, Spring Boot, and Vue.js.<br>
+  Recently, I have been studying React and am developing my capabilities as a front-end developer.<br>
+  Aiming for clean code, I enjoy improving my project through refactoring.
+</p>
+<br>
 <ul>
   <li>🔭 I’m working on Web Front-end Development.</li>
   <li>🌱 I’m currently learning React and Web performance optimization.</li>
