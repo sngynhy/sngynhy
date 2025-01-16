@@ -12,9 +12,6 @@ using technologies such as Node.js, Spring Boot, and Vue.js.
 Recently, I have been studying React and am developing my capabilities as a front-end developer.
 Aiming for clean code, I enjoy improving my project through refactoring.
 
-클린 코드를 지향하며 리팩토링을 통해 서비스를 개선하고 안정성과 효율성을 높이는 일에 즐거움을 느낍니다.
-최근에는 React를 공부하며 프론트엔드 개발자로서의 역량을 쌓고 있습니다.
-
 <ul>
   <li>🔭 I’m working on Web Front-end Development.</li>
   <li>🌱 I’m currently learning React and Web performance optimization.</li>
