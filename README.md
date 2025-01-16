@@ -6,13 +6,14 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 ## Hello! I'm Yoonhey 👋
-
-🔭 I’m working on Web Front-end Development.
-🌱 I’m currently learning React and Web performance optimization.
-😎 Pronouns: A programmer who likes math.
-💬 Ask me about anything.
-👩‍💻 I like to use mathematical knowledge to implement algorithms.
-⚡ Fun fact: ... Secret😁
+<div>
+  <p>🔭 I’m working on Web Front-end Development.</p>
+  <p>🌱 I’m currently learning React and Web performance optimization.</p>
+  <p>😎 Pronouns: A programmer who likes math.</p>
+  <p>💬 Ask me about anything.</p>
+  <p>👩‍💻 I like to use mathematical knowledge to implement algorithms.</p>
+  <p>⚡ Fun fact: ... Secret😁</p>
+</div>
 <!-- ⚡ Fun fact: I was a math teacher in the past👩‍🏫 -->
 
 [![sngynhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngynhy&count_private=true&show_icons=true&theme=buefy)](https://github.com/sngynhy/github-readme-stats)
