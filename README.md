@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#wakatime-%EC%A3%BC%EA%B0%84-%ED%86%B5%EA%B3%84
 -->
 
-# 👋 Hello, I'm Yoonhey!
+# 👋 Hello, I'm Yoonhye!
 ### About me🙋‍♀️
 <p>
   A web developer with experience developing REST APIs and SPAs using technologies such as Node.js, Spring Boot, and Vue.js.<br>
