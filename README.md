@@ -25,6 +25,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 <h2>GitHub Stats</h2>
 [![sngynhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngynhy&count_private=true&show_icons=true&theme=buefy)](https://github.com/sngynhy/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sngynhy&layout=compact&hide=Jupyter%20Notebook)](https://github.com/sngynhy/github-readme-stats)
 <!-- [![sngynhy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sngynhy)](https://github.com/sngynhy/github-readme-stats) -->
