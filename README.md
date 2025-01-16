@@ -7,19 +7,17 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 
 # Hello! I'm Yoonhey 👋
 ## About Me?
-A web developer with experience developing REST APIs and SPAs
-using technologies such as Node.js, Spring Boot, and Vue.js.
-Recently, I have been studying React and am developing my capabilities as a front-end developer.
-Aiming for clean code, I enjoy improving my project through refactoring.
-
-<ul>
-  <li>🔭 I’m working on Web Front-end Development.</li>
-  <li>🌱 I’m currently learning React and Web performance optimization.</li>
-  <li>😎 Pronouns: A programmer who likes math.</li>
-  <li>💬 Ask me about anything.</li>
-  <li>👩‍💻 I like to use mathematical knowledge to implement algorithms.</li>
-  <li>⚡ Fun fact: ... Secret😁</li>
-</ul>
+> A web developer with experience developing REST APIs and SPAs
+> using technologies such as Node.js, Spring Boot, and Vue.js.
+> Recently, I have been studying React and am developing my capabilities as a front-end developer.
+> Aiming for clean code, I enjoy improving my project through refactoring.
+<br>
+* 🔭 I’m working on Web Front-end Development.
+* 🌱 I’m currently learning React and Web performance optimization.
+* 😎 Pronouns: A programmer who likes math.
+* 💬 Ask me about anything.
+* 👩‍💻 I like to use mathematical knowledge to implement algorithms.
+* ⚡ Fun fact: ... Secret😁
 <!-- ⚡ Fun fact: I was a math teacher in the past👩‍🏫 -->
 
 [![sngynhy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngynhy&count_private=true&show_icons=true&theme=buefy)](https://github.com/sngynhy/github-readme-stats)
