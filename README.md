@@ -27,10 +27,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 
 ### GitHub Statistics
-<a href="https://github.com/sngynhy">
+<a href="https://github.com/sngynhy" style="text-decoration:none;">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sngynhy&count_private=true&show_icons=true&theme=flag-india" alt="sngynhy's github stats" />
 </a>
-<a href="https://github.com/sngynhy">
+<a href="https://github.com/sngynhy" style="text-decoration:none;">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sngynhy&layout=compact&hide=Jupyter%20Notebook&theme=flag-india" alt="sngynhy's top langs" />
 </a>
 
