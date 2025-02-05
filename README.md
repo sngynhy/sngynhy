@@ -19,7 +19,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
   <li>😎 A programmer who likes math.</li>
   <li>💬 Ask me about anything.</li>
   <li>👩‍💻 I like to use mathematical knowledge to implement algorithms.</li>
-  <li>⚡ Fun fact: ... Secret😁</li>
+  <li>⚡ Fun fact: I taught math. 👩‍🏫</li>
 </ul>
 <!--
 <li>😎 Pronouns: A programmer who likes math.</li>
