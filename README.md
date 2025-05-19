@@ -14,12 +14,12 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 </p>
 
 <ul>
-  <li>🔭 I’m working on Web Front-end Development.</li>
-  <li>🌱 I’m currently learning React and Web performance optimization.</li>
+  <li>🔭 I’m working on Web Full-stack Development.</li>
+  <li>🌱 I’m currently learning React and AWS.</li>
   <li>😎 A programmer who likes math.</li>
   <li>💬 Ask me about anything.</li>
   <li>👩‍💻 I like to use mathematical knowledge to implement algorithms.</li>
-  <li>⚡ Fun fact: Learning is fun. 😇</li>
+  <li>💡 Learning is f..fun! 😇</li>
 </ul>
 <!--
 <li>😎 Pronouns: A programmer who likes math.</li>
